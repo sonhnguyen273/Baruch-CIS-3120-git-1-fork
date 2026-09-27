@@ -20,7 +20,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
-**Hoang Son Nguyen** (GitHub: vjavaly) | The Lord of the Rings: The Two Towers
+**Hoang Son Nguyen** (GitHub: sonhnguyen273) | The Lord of the Rings: The Two Towers
 
 
 
